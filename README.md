@@ -1,9 +1,13 @@
-<h1 align="center">Active Reconnaissance Scanner</h1>
+<h1 align="center">🦇 Active Reconnaissance Scanner</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language: C++" />
+  <img src="https://img.shields.io/badge/Core-TCP%2FIP-4A90E2?style=for-the-badge" alt="Core: TCP/IP" />
+</p>
 
 <p align="center">
   <strong>A high-performance, multi-threaded C++ network scanner for service fingerprinting and banner grabbing.</strong>
 </p>
-
 ---
 
 ## 🚀 Overview
