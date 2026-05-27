@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language: C++" />
-  <img src="https://img.shields.io/badge/Core-TCP%2FIP-4A90E2?style=for-the-badge" alt="Core: TCP/IP" />
+  <img src="https://img.shields.io/badge/Core-Linux_System_Programming-00599C?style=for-the-badge&logo=linux&logoColor=white" alt="Core: Linux System Programming" />
 </p>
 
 <p align="center">
